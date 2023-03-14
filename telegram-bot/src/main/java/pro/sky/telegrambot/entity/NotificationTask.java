@@ -1,3 +1,4 @@
+
 package pro.sky.telegrambot.entity;
 
 import javax.persistence.*;
